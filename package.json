@@ -1,0 +1,28 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Primo Esercizio corso React prove con nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mentabomber/node-hello-world.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Simcic Tilen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mentabomber/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/Mentabomber/node-hello-world#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  }
+}
